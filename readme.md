@@ -11,7 +11,7 @@ Mi nombre es David Rollan Arias y en este examen voy a poner en practica todo lo
 
 Creamos una pagina web para el [instituto](https://pages.github.com/) :school:
 
-[fotoinstituto](<https://fpiespablopicasso.es/wpcontent/uploads/2022/03/LOGOTIPO-IES-PABLO-PICASSO-texto-morado.png)>)
+<https://fpiespablopicasso.es/wpcontent/uploads/2022/03/LOGOTIPO-IES-PABLO-PICASSO-texto-morado.png>
 
 
 ## **Ejemplos**
